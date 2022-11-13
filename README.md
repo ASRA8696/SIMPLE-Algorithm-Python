@@ -1,14 +1,15 @@
 # SIMPLE-Algorithm-Python
-A benchmark case of lid driven cavity solved on a 2D cartesian mesh using the Finite Volume Method 
+Finite Volume Method on a 2D cartesian mesh
 
+CASE                 : LID DRIVEN CAVITY
 FLOW TYPE            : INCOMPRESSIBLE  <br />
 REYNOLDS NUMBER      : 100 <br />
 DIMENSION            : X,Y = 51x51 <br />
 GRID ARRANGEMENT     : COLLOCATED  <br />
 SOLUTION METHODOLOGY : S.I.M.P.L.E (Semi Implicit Method for Pressure Linked Equations) Algorithm <br />
-NUMERICAL SCHEME     : Linear Upwind <br />
+NUMERICAL SCHEME     : LINEAR UPWIND <br />
 LIMITERS             : GRADIENT  <br />
-INTERPOLATION        : Rhie-Chow <br />
+INTERPOLATION        : RHIE-CHOW <br />
 
 
 ![image](https://user-images.githubusercontent.com/79316741/201539088-a8f24d30-a45f-4612-b8a4-08d53370f62a.png)
