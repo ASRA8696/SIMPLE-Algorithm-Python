@@ -1,7 +1,7 @@
 # SIMPLE-Algorithm-Python
 Finite Volume Method on a 2D cartesian mesh
 
-CASE                 : LID DRIVEN CAVITY
+CASE                 : LID DRIVEN CAVITY <br />
 FLOW TYPE            : INCOMPRESSIBLE  <br />
 REYNOLDS NUMBER      : 100 <br />
 DIMENSION            : X,Y = 51x51 <br />
